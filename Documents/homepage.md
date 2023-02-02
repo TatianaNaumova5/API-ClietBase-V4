@@ -1,8 +1,8 @@
 Home Page
 
 
-By navigating to the home page users can see:
-“ClientBase” logo is in the upper left corner.
+1.  By navigating to the home page users can see:
+   “ClientBase” logo is in the upper left corner.
 2. “Login” and “Get started - it’s free” links are in the upper right corner:
    “Login” should redirect the user to the login page;
    “Get started - it’s free” should redirect the user to the Register page.
